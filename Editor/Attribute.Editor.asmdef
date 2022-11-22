@@ -1,0 +1,16 @@
+{
+    "name": "Attribute.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e3b44a54f26a4dc4983c64551c13e705"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

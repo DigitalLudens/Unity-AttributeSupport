@@ -1,0 +1,19 @@
+{
+    "name": "com.beio.AttributeSupport",
+    "version": "0.0.1",
+    "displayName": "AttributeSupport",
+    "description": "AttributeSupport",
+    "unity": "2019.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DigitalLudens/Unity-AttributeSupport.git"
+    },
+    "dependencies": {
+        "com.unity.addressables": "1.16.19"
+    },
+    "keywords": [
+        "Security",
+        "Variable"
+    ], 
+    "author": "beio1541 <beio1541@gmail.com> (https://github.com/beio1541)"
+}
